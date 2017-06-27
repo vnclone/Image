@@ -1,11 +1,11 @@
 <?php
 
-namespace CSD\Image\Format;
+namespace vnclone\Image\Format;
 
-use CSD\Image\Metadata\Exif;
-use CSD\Image\Metadata\Iptc;
-use CSD\Image\Metadata\Xmp;
-use CSD\Image\Image;
+use vnclone\Image\Metadata\Exif;
+use vnclone\Image\Metadata\Iptc;
+use vnclone\Image\Metadata\Xmp;
+use vnclone\Image\Image;
 
 /**
  * @author Daniel Chesterton <daniel@chestertondevelopment.com>
