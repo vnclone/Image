@@ -1,5 +1,5 @@
 <?php
-namespace CSD\Image\Format\WebP;
+namespace vnclone\Image\Format\WebP;
 
 /**
  * @author Daniel Chesterton <daniel@chestertondevelopment.com>
