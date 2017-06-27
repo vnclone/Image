@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "vnclone\\imagemetadata\\": "src"
+            "vnclone\\ImageMetaData\\": "src"
         }
     },
     "minimum-stability":"dev"
