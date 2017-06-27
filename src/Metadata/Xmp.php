@@ -1,5 +1,5 @@
 <?php
-namespace CSD\Image\Metadata;
+namespace vnclone\Image\Metadata;
 
 /**
  * Class to read XMP metadata from an image.
