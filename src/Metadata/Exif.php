@@ -1,5 +1,5 @@
 <?php
-namespace CSD\Image\Metadata;
+namespace vnclone\Image\Metadata;
 
 /**
  * Class to read EXIF metadata from an image.
