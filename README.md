@@ -1,2 +1,2 @@
 # image
-site: https://doctruyencam.com
+site: <a href="https://doctruyencam.com">Đọc truyện cấm</a>
