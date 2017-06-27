@@ -1,8 +1,6 @@
 <?php
 namespace vnclone\ImageMetaData\Provider;
-use Illuminate\Support\ServiceProvider;
-use vnclone\ImageMetaData\Classes\HtmlProxy;
-use vnclone\ImageMetaData\Commands\ClearStaticCache;
+use Illuminate\Support\ServiceProvider; 
 class ImageMetaDataProvider extends ServiceProvider
 {
  
