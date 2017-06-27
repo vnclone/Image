@@ -1,12 +1,12 @@
 <?php
 
-namespace CSD\Image;
+namespace vnclone\Image;
 
-use CSD\Image\Format\JPEG;
-use CSD\Image\Format\PNG;
-use CSD\Image\Format\WebP;
-use CSD\Image\Metadata\Aggregate;
-use CSD\Image\Metadata\UnsupportedException;
+use vnclone\Image\Format\JPEG;
+use vnclone\Image\Format\PNG;
+use vnclone\Image\Format\WebP;
+use vnclone\Image\Metadata\Aggregate;
+use vnclone\Image\Metadata\UnsupportedException;
 
 /**
  * @author Daniel Chesterton <daniel@chestertondevelopment.com>
