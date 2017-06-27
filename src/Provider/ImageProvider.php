@@ -1,8 +1,8 @@
 <?php
-namespace vnclone\image\Provider;
+namespace vnclone\Image\Provider;
 use Illuminate\Support\ServiceProvider;
-use vnclone\image\Classes\HtmlProxy;
-use vnclone\image\Commands\ClearStaticCache;
+use vnclone\Image\Classes\HtmlProxy;
+use vnclone\Image\Commands\ClearStaticCache;
 class imageProvider extends ServiceProvider
 {
  
