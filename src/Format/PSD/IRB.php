@@ -1,6 +1,6 @@
 <?php
 
-namespace vnclone\Image\Format\PSD;
+namespace vnclone\ImageMetaData\Format\PSD;
 
 /**
  * Class for Image Resource Blocks.

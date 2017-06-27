@@ -1,15 +1,15 @@
 <?php
-namespace vnclone\Image\Format;
+namespace vnclone\ImageMetaData\Format;
 
-use vnclone\Image\Metadata\Exif;
-use vnclone\Image\Metadata\Iptc;
-use vnclone\Image\Metadata\Xmp;
-use vnclone\Image\Image;
+use vnclone\ImageMetaData\Metadata\Exif;
+use vnclone\ImageMetaData\Metadata\Iptc;
+use vnclone\ImageMetaData\Metadata\Xmp;
+use vnclone\ImageMetaData\ImageMetaData;
 
 /**
  * @author Daniel Chesterton <daniel@chestertondevelopment.com>
  */
-class JPEG extends Image
+class JPEG extends ImageMetaData
 {
     const SOI = "\xFF\xD8";
 

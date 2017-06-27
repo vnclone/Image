@@ -1,5 +1,5 @@
 <?php
-namespace vnclone\Image\Format\JPEG;
+namespace vnclone\ImageMetaData\Format\JPEG;
 
 /**
  * @author Daniel Chesterton <daniel@chestertondevelopment.com>

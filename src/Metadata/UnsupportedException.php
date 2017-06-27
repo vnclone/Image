@@ -1,5 +1,5 @@
 <?php
-namespace vnclone\Image\Metadata;
+namespace vnclone\ImageMetaData\Metadata;
 
 /**
  * Exception thrown when a file type does not support a certain metadata type.

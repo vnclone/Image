@@ -1,5 +1,5 @@
 <?php
-namespace vnclone\Image\Format\WebP;
+namespace vnclone\ImageMetaData\Format\WebP;
 
 /**
  * @author Daniel Chesterton <daniel@chestertondevelopment.com>

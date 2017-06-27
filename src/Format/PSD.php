@@ -1,17 +1,17 @@
 <?php
 
-namespace vnclone\Image\Format;
+namespace vnclone\ImageMetaData\Format;
 
-use vnclone\Image\Metadata\Exif;
-use vnclone\Image\Metadata\Iptc;
-use vnclone\Image\Metadata\Xmp;
-use vnclone\Image\Image;
+use vnclone\ImageMetaData\Metadata\Exif;
+use vnclone\ImageMetaData\Metadata\Iptc;
+use vnclone\ImageMetaData\Metadata\Xmp;
+use vnclone\ImageMetaData\ImageMetaData;
 
 /**
  * @author Daniel Chesterton <daniel@chestertondevelopment.com>
  * @author Joel Bernerman <joel.bernerman@aller.se>
  */
-class PSD extends Image {
+class PSD extends ImageMetaData {
 
     /**
      * File signature.

@@ -1,11 +1,11 @@
 <?php
-namespace vnclone\Image;
+namespace vnclone\ImageMetaData;
 
-use vnclone\Image\Metadata\Aggregate;
-use vnclone\Image\Metadata\UnsupportedException;
-use vnclone\Image\Metadata\Exif;
-use vnclone\Image\Metadata\Iptc;
-use vnclone\Image\Metadata\Xmp;
+use vnclone\ImageMetaData\Metadata\Aggregate;
+use vnclone\ImageMetaData\Metadata\UnsupportedException;
+use vnclone\ImageMetaData\Metadata\Exif;
+use vnclone\ImageMetaData\Metadata\Iptc;
+use vnclone\ImageMetaData\Metadata\Xmp;
 
 /**
  * @author Daniel Chesterton <daniel@chestertondevelopment.com>

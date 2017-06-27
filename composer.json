@@ -1,5 +1,5 @@
 {
-    "name": "vnclone/metadataimage",
+    "name": "vnclone/ImageMetaData",
     "description": "Image metadata library",
     "license": "MIT",
     "authors": [
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "vnclone\\metadataimage\\": "src"
+            "vnclone\\ImageMetaData\\": "src"
         }
     },
     "minimum-stability":"dev"

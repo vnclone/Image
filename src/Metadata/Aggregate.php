@@ -1,5 +1,5 @@
 <?php
-namespace vnclone\Image\Metadata;
+namespace vnclone\ImageMetaData\Metadata;
 
 /**
  * @author Daniel Chesterton <daniel@chestertondevelopment.com>
