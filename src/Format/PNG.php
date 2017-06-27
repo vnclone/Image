@@ -1,9 +1,9 @@
 <?php
-namespace CSD\Image\Format;
+namespace vnclone\Image\Format;
 
-use CSD\Image\Metadata\UnsupportedException;
-use CSD\Image\Metadata\Xmp;
-use CSD\Image\Image;
+use vnclone\Image\Metadata\UnsupportedException;
+use vnclone\Image\Metadata\Xmp;
+use vnclone\Image\Image;
 
 /**
  * @author Daniel Chesterton <daniel@chestertondevelopment.com>
